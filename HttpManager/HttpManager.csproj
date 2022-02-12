@@ -4,6 +4,25 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>disable</Nullable>
+    <PackageId>JasNatWares.HttpManager</PackageId>
+    <Authors>Patrick Kitheka</Authors>
+    <Company>JasNat Wares</Company>
+    <Description>This library provides a minified class for sending HTTP requests and receiving HTTP responses from a resource identified by a URI.</Description>
+    <Copyright>JasNat Wares</Copyright>
+    <PackageProjectUrl>https://github.com/itsKirk/HttpManager</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/itsKirk/HttpManager</RepositoryUrl>
+    <PackageTags>HttpManager;Http;Manager;Client;JasNat;HttpClient</PackageTags>
+    <PackageIcon>HttpManager.png</PackageIcon>
+    <NeutralLanguage>en-KE</NeutralLanguage>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\Kirk\Documents\MyIcons\HttpManager.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
